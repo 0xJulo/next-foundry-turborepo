@@ -33,6 +33,25 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Foundry
+broadcast/
+cache/
+artifacts/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Bun
+bun.lockb
+
+# TypeScript
+*.tsbuildinfo
+
 # Misc
 .DS_Store
 *.pem
+Thumbs.db
