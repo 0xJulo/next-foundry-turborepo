@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "next-foundry",
   "private": true,
   "scripts": {
     "build": "turbo run build",
